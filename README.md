@@ -4,7 +4,7 @@ Welcome to the **Headphone Website UI** project, a visually stunning and interac
 
 ## 🚀 Live Demo
 
-Check out the live demo of the Headphone Website UI: [Headphone Website](https://your-demo-link.com)
+Check out the live demo of the Headphone Website UI: [Headphone Website](https://tune-trove-aps.netlify.app/)
 
 ## 🛠 Tech Stack
 
@@ -57,5 +57,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 Enjoy exploring the **Headphone Website UI**! 🎧🌟
-
----
