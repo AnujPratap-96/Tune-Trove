@@ -25,7 +25,7 @@ Check out the live demo of the Headphone Website UI: [Headphone Website](https:/
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/headphone-website.git
+    git clone https://github.com/AnujPratap-96/Tune-Trove.git
     cd headphone-website
     ```
 
